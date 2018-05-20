@@ -1,0 +1,20 @@
+Nouns:
+
+Flag - End goal of each game?
+
+Projection - Projected onto a wall, shadows?
+
+
+Verbs:
+
+Trace - Dragging with a finger, maybe to navigate a maze
+
+Minimise - Fewest number of moves / shortest trace distance
+
+
+Solution: 
+
+What does the player do? - Using a finger, the player traces a maze drawn on the screen while avoiding the sides.
+
+Game design - A bug is crawling up a wall. The walkable path is a darkened maze, resembling a shadow on the wall. The bug must find its way to the flag at the top of the screen while staying in the shadows, or it will burn to death (Don't make this too graphic, obvs.)
+The bug might not be visible during play so the player can more easily see the sides of the path.
